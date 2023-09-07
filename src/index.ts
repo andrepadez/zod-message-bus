@@ -3,5 +3,5 @@ export const hello = () => {
 }
 
 export const goodbye = () => {
-  console.log('goodbye')
+  console.log('goodbye cruel world')
 }
